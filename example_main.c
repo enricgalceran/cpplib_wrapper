@@ -1,7 +1,6 @@
 /**
  * This example program shows how to use a shared library (.so file) that
- * provides a C API for a C++ library. See libraries/cpplib_wrapper to
- * see an example of a C wrapper around a C++ library.
+ * provides a C API for a C++ library.
  */
 
 #include "wrapper.h"
