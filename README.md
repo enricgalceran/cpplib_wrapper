@@ -37,7 +37,7 @@ cpp_class.cpp  cpp_class.h  cpp_class.o  example_main  example_main.c  libcpplib
 
 Update your `LD_LIBRARY_PATH` environment variable before running `example_main`:
 ```
-$ export LD_LIBRARY_PATH=/home/enric/osx/repos/cpplib_wrapper:$LD_LIBRARY_PATH
+$ export LD_LIBRARY_PATH=/home/user/.../cpplib_wrapper:$LD_LIBRARY_PATH
 ```
 
 And now you can run the example program:
